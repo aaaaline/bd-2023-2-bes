@@ -1,1 +1,1 @@
-# bd-2023-2-bes
+Repositório para a matéria de Banco de Dados 2023/2.
